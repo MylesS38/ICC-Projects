@@ -1,0 +1,35 @@
+// This is the output from the sorting function
+
+Original vector ...
+11
+4
+1
+8
+3
+3
+7
+0
+9
+5
+Sorted vector (ascending) ...
+0
+1
+3
+3
+4
+5
+7
+8
+9
+11
+Sorted vector (descending) ...
+11
+9
+8
+7
+5
+4
+3
+3
+1
+0
