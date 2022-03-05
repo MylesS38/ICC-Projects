@@ -1,2 +1,45 @@
-dsadpamwf
+// This is the output of the key encryption/decrypt function using various keys and phrases
 
+**********
+
+Encryption Key:
+imgs
+
+Original String:
+Hello World!!!
+
+Encrypted String:
+2ST`Ym?c\ZLtjn
+
+Decrypted String:
+Hello World!!!
+
+**********
+
+Encryption Key:
+buffalo
+
+Original String:
+This is a test of the key encryption system
+
+Encrypted String:
+7^PZaVcbWf[G`dbeMfVUUbaL`aR^Fh`WVV_QuZ`UaUP
+
+Decrypted String:
+This is a test of the key encryption system
+
+**********
+
+Encryption Key:
+Salvaggio
+
+Original String:
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+
+Encrypted String:
+Sbnyelmpw\kw#nuvy!et!,w~ #*n}*5!(),3w'3>*125<!0<G3:;>E*9EP<CDGN3BNYELMPW<KWbNUVY`ET`kW^_biN]it`
+
+Decrypted String:
+ !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~
+
+**********
